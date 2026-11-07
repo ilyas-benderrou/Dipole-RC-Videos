@@ -1,0 +1,1 @@
+Lis VIDEOS_SPEC.md en entier et produis directement les 12 vidéos (V0, L1 à L5, M1 à M6), sans test préalable, en autonomie complète, sans me poser de questions ni t'arrêter. Résumé à la fin seulement.

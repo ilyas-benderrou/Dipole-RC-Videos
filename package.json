@@ -1,0 +1,29 @@
+{
+  "name": "dipole-rc-videos",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Dipôle RC — 12 vidéos (V0, L1 à L5, M1 à M6), Remotion",
+  "scripts": {
+    "studio": "remotion studio",
+    "spec": "node scripts/parse-spec.mjs",
+    "tts": "node scripts/tts.mjs",
+    "analyse": "node scripts/analyse.mjs",
+    "video": "node scripts/render.mjs"
+  },
+  "dependencies": {
+    "@react-three/fiber": "9.3.0",
+    "@remotion/cli": "4.0.532",
+    "@remotion/three": "4.0.532",
+    "katex": "0.19.0",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "remotion": "4.0.532",
+    "three": "0.178.0"
+  },
+  "devDependencies": {
+    "@types/katex": "^0.16.7",
+    "@types/react": "^19.1.0",
+    "@types/three": "0.178.0",
+    "typescript": "^5.8.0"
+  }
+}
